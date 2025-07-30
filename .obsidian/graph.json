@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Spring",
+      "color": {
+        "a": 1,
+        "rgb": 3757275
+      }
+    },
+    {
+      "query": "path:\"Java OCA Base\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2.2,
+  "nodeSizeMultiplier": 1.325,
+  "lineSizeMultiplier": 1.63125,
+  "collapse-forces": false,
+  "centerStrength": 0.135416666666667,
+  "repelStrength": 10.5208333333333,
+  "linkStrength": 0.697916666666667,
+  "linkDistance": 233,
+  "scale": 0.1796867353206475,
+  "close": false
+}
