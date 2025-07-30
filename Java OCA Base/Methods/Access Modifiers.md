@@ -1,7 +1,7 @@
 # 🔐 Java Access Modifiers Reference
 **Tags:** #java #access-modifiers #visibility #encapsulation
 
-Access modifiers control the visibility and accessibility of classes, methods, and fields in Java.
+Access modifiers control the visibility and accessibility of classes, [[Defining Methods|methods]], and fields in Java.
 
 ---
 

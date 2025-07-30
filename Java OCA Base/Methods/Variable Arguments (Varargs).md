@@ -10,7 +10,7 @@ Varargs allow a method to accept any number of parameters of the same type using
 
 ### 📝 Two Critical Rules
 
-1. **At most one varargs** parameter per method
+1. **At most one varargs** parameter per [[Defining Methods|methods]]
 2. **Varargs must be last** parameter in the list
 
 ```java
