@@ -12,7 +12,7 @@ A class contains:
 
 - **📦 Fields (Variables)** - Store data/state
 - **⚙️ Methods** - Define behavior/actions
-- **🔧 Constructors** - Initialize new objects
+- **🔧 [[Creating Constructors|Constructors]]** - Initialize new objects
 
 ```java
 public class Dog {

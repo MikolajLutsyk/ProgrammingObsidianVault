@@ -93,7 +93,7 @@ This is my way of **paying it forward** and contributing to the collective knowl
 - Check **folder structure** for organized topic areas
 - Use **search functionality** for specific concepts or keywords
 
-Preferred way of browsing this vault is Obsidian, i strongly suggest trying it out for the Graph View
+Preferred way of browsing this vault is **Obsidian**, i strongly suggest trying it out for the **Graph View**
 
 ---
 

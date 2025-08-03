@@ -6,6 +6,7 @@
       {
         "id": "ee99723e26d5b309",
         "type": "tabs",
+        "dimension": 54.57393483709273,
         "children": [
           {
             "id": "bd4a847c1d2871e3",
@@ -41,30 +42,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java OCA Base/Class Design/Inheritance.md",
+                "file": "Java OCA Base/Class Design/Initializing objects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inheritance"
+              "title": "Initializing objects"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b9cee5c517edbab9",
+        "type": "tabs",
+        "dimension": 45.42606516290727,
+        "children": [
           {
-            "id": "f0d493ef01727457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java OCA Base/Class Design/Class Creation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Class Creation"
-            }
-          },
-          {
-            "id": "640f5c5cbba7b9b6",
+            "id": "18b34036dc4c7ea5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -73,8 +68,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java OCA Base/Class Design/Class Creation.md",
+                "file": "Java OCA Base/Class Design/Initializing objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Class Creation"
+              "title": "Outgoing links from Initializing objects"
             }
           },
           {
@@ -221,11 +215,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0d493ef01727457",
+  "active": "18b34036dc4c7ea5",
   "lastOpenFiles": [
+    "Java OCA Base/Class Design/Initializing objects.md",
+    "Java OCA Base/Class Design/Using this() and super().md",
     "Java OCA Base/Class Design/Inheritance.md",
+    "Java OCA Base/Class Design/Inheriting members.md",
+    "Java OCA Base/Class Design/Creating Constructors.md",
     "Java OCA Base/Class Design/Class Creation.md",
     "Java OCA Base/Class Design/Class Basics.md",
+    "Constructors*.md",
+    "README.md",
     "Java OCA Base/Methods/Access Modifiers.md",
     "Java OCA Base/Methods/Overloading Methods.md",
     "Java OCA Base/Class Design",
@@ -245,12 +245,6 @@
     "Java OCA Base/Arrays/Searching Arrays.md",
     "Java OCA Base/Arrays/Multidimensional Arrays.md",
     "Java OCA Base/Arrays/Comparing Arrays.md",
-    "Java OCA Base/Arrays/Arrays.md",
-    "Spring Boot Udemy Course/Spring Core Overview/Lazy initialization.md",
-    "Spring Boot Udemy Course/Spring Core Overview/Inversion of Control.md",
-    "Spring Boot Udemy Course/Spring Core Overview/Injection Types - which one to use?.md",
-    "Spring Boot Udemy Course/Spring Core Overview/Field Injection.md",
-    "Spring Boot Udemy Course/Spring Core Overview/Defining Dependency Injection.md",
     "Java OCA Base/Methods",
     "Java OCA Base/Dates and Times",
     "Java OCA Base/Arrays",
