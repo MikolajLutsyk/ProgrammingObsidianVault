@@ -1,6 +1,6 @@
 # 🔗 Java Constructor Chaining - `this()` and `super()`
 
-**Tags:** #java #constructors #this #super #inheritance #constructor-chaining
+**Tags:** #java #constructor #this #super #oop #oca
 
 Special methods to call other constructors within the same class (`this()`) or parent class (`super()`).
 

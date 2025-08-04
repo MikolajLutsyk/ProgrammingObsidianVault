@@ -1,6 +1,6 @@
-# 📦 Java Wrapper Classes
+# 📦 Java Wrapper [[Class Basics|Classes]]
 
-**Tags:** #java #wrapper-classes #primitives #objects
+**Tags:** #java #wrapper #oca
 
 Wrapper classes convert primitives to objects, enabling object-only features and providing utility methods.
 

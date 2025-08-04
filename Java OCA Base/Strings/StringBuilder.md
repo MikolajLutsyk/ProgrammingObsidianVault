@@ -1,6 +1,6 @@
 # 🛠️ Java StringBuilder
 
-**Tags:** #java #stringbuilder #mutable #strings
+**Tags:** #java #stringbuilder #oca
 
 StringBuilder is a mutable class designed for efficient string manipulation. Unlike immutable String objects, StringBuilder allows you to modify the content without creating new objects.
 

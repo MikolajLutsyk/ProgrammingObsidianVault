@@ -1,8 +1,8 @@
 # ⏰ Java Date/Time [[Defining Methods|Methods]] 
 
-**Tags:** #java #datetime #methods #immutable
+**Tags:** #java #datetime #methods #oca 
 
-[[Create Dates and Times|Date and Time]] classes provide plus/minus methods for manipulation and comparison methods for ordering.
+[[Create Dates and Times|Date and Time]] [[Class Basics|classes]] provide plus/minus methods for manipulation and comparison methods for ordering.
 
 ---
 

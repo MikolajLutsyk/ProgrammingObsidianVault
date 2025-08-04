@@ -1,6 +1,6 @@
 # 🔄 Java Inheriting Members - Method Overriding
 
-**Tags:** #java #inheritance #overriding #polymorphism #method-hiding
+**Tags:** #java #polymorphism #inheritance #oop #oca
 
 How subclasses can inherit, override, and hide methods from their parent [[Class Basics|classes]].
 

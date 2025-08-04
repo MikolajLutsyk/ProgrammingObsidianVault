@@ -1,6 +1,6 @@
 # 🔧 Java Constructors
 
-**Tags:** #java #constructors #object-creation #class-design
+**Tags:** #java #constructor #oop #oca
 
 Special [[Defining Methods|methods]] that initialize objects when they're created using the `new` keyword.
 

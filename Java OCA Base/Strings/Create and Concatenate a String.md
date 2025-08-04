@@ -1,6 +1,6 @@
 # 🔤 Java String Basics
 
-**Tags:** #java #string #basics #concatenation
+**Tags:** #java #string #oca
 
 [[String]] is a sequence of characters in Java, implementing the `CharSequence` interface. It's one of the most commonly used classes for text manipulation.
 

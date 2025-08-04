@@ -1,6 +1,6 @@
 # ⚡ Java Object Initialization Order
 
-**Tags:** #java #initialization #static #instance #constructor #class-loading
+**Tags:** #java #initialization #oop #oca
 
 Understanding the precise order in which Java initializes classes and creates objects.
 

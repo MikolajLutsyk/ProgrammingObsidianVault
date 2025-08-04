@@ -1,6 +1,6 @@
 # 🔲 Java Multidimensional [[Arrays]]
 
-**Tags:** #java #arrays #multidimensional #2d-arrays
+**Tags:** #java #array #multidimensional #oca
 
 Multidimensional arrays in Java are arrays of arrays, allowing you to store data in a table-like structure with rows and columns.
 

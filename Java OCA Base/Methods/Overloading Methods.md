@@ -1,6 +1,6 @@
 # 🔄 Java [[Defining Methods|Method]] Overloading
 
-**Tags:** #java #methods #overloading #polymorphism
+**Tags:** #java #polymorphism #methods #oop #oca
 
 Method overloading allows multiple methods with the same name but different parameter lists in the same class.
 

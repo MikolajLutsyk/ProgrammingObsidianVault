@@ -1,6 +1,6 @@
 # 🔍 Java [[Arrays]].binarySearch() Reference
 
-**Tags:** #java #arrays #binarySearch #search #sorted
+**Tags:** #java #arrays #binarySearch #search #sorted #oca
 
 `Arrays.binarySearch()` efficiently finds elements in sorted arrays using binary search algorithm. It requires the array to be sorted for predictable results.
 

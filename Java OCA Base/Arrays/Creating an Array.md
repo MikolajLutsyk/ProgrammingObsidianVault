@@ -1,6 +1,6 @@
 # 🗂️ Java [[Arrays]] Declaration & Initialization
 
-**Tags:** #java #array #declaration #initialization
+**Tags:** #java #array #oca
 
 Arrays in Java can be declared and initialized in various ways. Understanding the syntax and different approaches is essential for effective array usage.
 

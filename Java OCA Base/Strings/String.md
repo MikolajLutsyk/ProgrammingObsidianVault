@@ -1,6 +1,6 @@
 # 🔤 String Definition
 
-**Tags:** #java #string #definition
+**Tags:** #java #string #oca
 
 **String** is a sequence of characters in Java, implementing the `CharSequence` interface. It represents immutable text data and is one of the most fundamental classes in Java programming.
 

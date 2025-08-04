@@ -1,6 +1,6 @@
 # 🔀 Java [[Arrays]].sort() Reference
 
-**Tags:** #java #arrays #sort #sorting #mutable
+**Tags:** #java #arrays #sort #sorting #mutable #oca
 
 `Arrays.sort()` arranges array elements in ascending order. It modifies the original array in-place, making it a mutating operation.
 

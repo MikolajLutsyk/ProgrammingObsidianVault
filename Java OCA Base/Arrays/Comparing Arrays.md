@@ -1,6 +1,6 @@
 # ⚖️ Java [[Arrays]].compare()
 
-**Tags:** #java #arrays #compare #comparison
+**Tags:** #java #arrays #compare #methods #oca 
 
 `Arrays.compare()` determines which array is "smaller" by performing lexicographic comparison and returns an integer indicating their relative order.
 

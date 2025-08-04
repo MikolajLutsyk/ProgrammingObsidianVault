@@ -1,6 +1,6 @@
 # 📦 Java Variable Arguments (Varargs)
 
-**Tags:** #java #varargs #methods #parameters
+**Tags:** #java #varargs #oca
 
 Varargs allow a method to accept any number of parameters of the same type using the `...` syntax.
 

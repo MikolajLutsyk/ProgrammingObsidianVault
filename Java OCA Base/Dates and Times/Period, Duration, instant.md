@@ -1,6 +1,6 @@
 # ⏳ Java Periods, Durations & Instants Reference
 
-**Tags:** #java #datetime #period #duration #instant
+**Tags:** #java #datetime #oca
 
 Three classes for measuring time spans and timestamps: Period (date-based), Duration (time-based), and Instant (timestamp).
 

@@ -1,6 +1,6 @@
 # 🏗️ Java [[Class Basics|Class]] Creation 
 
-**Tags:** #java #inheritance #class-creation #this #super #extends
+**Tags:** #java #class #inheritance #oop #oca
 
 How to create and implement inheritance between classes in Java, with practical examples of member access.
 

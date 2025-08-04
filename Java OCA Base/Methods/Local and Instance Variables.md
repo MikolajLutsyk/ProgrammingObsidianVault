@@ -1,6 +1,6 @@
 # 🔧 Java Local & Instance Variables
 
-**Tags:** #java #variables #local #instance #final
+**Tags:** #java #variables #oca
 
 Local and instance variables have different scopes, initialization requirements, and modifier restrictions.
 

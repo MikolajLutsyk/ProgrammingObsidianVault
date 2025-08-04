@@ -1,6 +1,6 @@
 # ⚡ Java Static Members
 
-**Tags:** #java #static #class-members #constants
+**Tags:** #java #static #oca
 
 Static members belong to the class rather than individual instances, providing shared data and behavior across all instances.
 
@@ -8,7 +8,7 @@ Static members belong to the class rather than individual instances, providing s
 
 ## 🔹 Static Variables
 
-### 🏢 Class-Level Sharing
+### 🏢 [[Class Basics|Class]]-Level Sharing
 
 ```java
 class Item {

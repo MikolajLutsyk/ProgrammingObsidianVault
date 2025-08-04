@@ -1,6 +1,6 @@
 # 🏊 Java [[String]] Pool & Memory Management
 
-**Tags:** #java #string #memory #pool #intern
+**Tags:** #java #string #memory #oca
 
 The JVM stores string literals in a special memory location called the String Pool (or Intern Pool) to optimize memory usage and improve performance.
 

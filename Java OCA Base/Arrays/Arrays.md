@@ -1,6 +1,6 @@
 # 🗂️ Array Definition
 
-**Tags:** #java #array #definition #data-structure
+**Tags:** #java #array #oca
 
 **Array** is a collection of elements of the same data type stored in contiguous memory locations. It's a fundamental data structure in Java that provides indexed access to its elements.
 

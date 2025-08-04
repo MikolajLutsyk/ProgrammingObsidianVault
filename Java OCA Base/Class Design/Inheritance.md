@@ -1,6 +1,6 @@
 # 🧬 Java Inheritance
 
-**Tags:** #java #inheritance #oop #class-design #extends
+**Tags:** #java #inheritance #oop #oca
 
 Inheritance allows [[Class Basics|classes]] to inherit members (fields and methods) from other classes, creating parent-child relationships.
 

@@ -1,6 +1,6 @@
 # 📦 Java Boxing & Unboxing
 
-**Tags:** #java #boxing #unboxing #autoboxing #primitives
+**Tags:** #java #boxing #oca
 
 Boxing converts primitives to [[Wrapper Classes|wrapper]] objects, unboxing does the reverse. Java can do this automatically but with limitations.
 

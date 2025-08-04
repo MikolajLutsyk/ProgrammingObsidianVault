@@ -1,6 +1,6 @@
 # 📅 Java Date/Time API
 
-**Tags:** #java #datetime #time #date #timezone
+**Tags:** #java #datetime #oca
 
 Java provides four main Date/Time types in the `java.time` package for handling different temporal scenarios.
 

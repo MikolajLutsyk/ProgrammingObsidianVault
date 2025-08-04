@@ -1,6 +1,6 @@
 # 🔧 Java Method Syntax
 
-**Tags:** #java #methods #syntax #declaration
+**Tags:** #java #methods #oca
 
 Java methods follow a specific syntax structure with required and optional components.
 

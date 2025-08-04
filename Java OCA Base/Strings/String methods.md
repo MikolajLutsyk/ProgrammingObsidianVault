@@ -1,7 +1,7 @@
 # ☕ Java [[String]] [[Defining Methods|Methods]]
 
 
-**Tags:** #java #strings #methods
+**Tags:** #java #string #methods #oca
 
 Java strings provide a rich set of methods for manipulation, comparison, and formatting. Understanding these methods is essential for effective string handling in Java.
 

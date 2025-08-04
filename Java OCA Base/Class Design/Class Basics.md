@@ -1,6 +1,6 @@
 # 🏗️ Java Class Basics
 
-**Tags:** #java #class #oop #object-oriented
+**Tags:** #java #class #oca #oop
 
 A **class** is a blueprint or template for creating objects in Java. It defines the structure and behavior that objects of that class will have.
 
