@@ -8,91 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5623dc603616c20",
+            "id": "b671f6714e5ad284",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java OCA Base/Lambdas and Functional Programming/Functional Interfaces and Lambdas.md",
+                "file": "Java OCA Base/Collections/List Interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functional Interfaces and Lambdas"
+              "title": "List Interface"
             }
           },
           {
-            "id": "756f94b717aa33b4",
+            "id": "1af9b90578d9230e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java OCA Base/Lambdas and Functional Programming/Using Predicate with Lambda.md",
+                "file": "Java OCA Base/Exceptions/Unchecked Exceptions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Using Predicate with Lambda"
+              "title": "Unchecked Exceptions"
             }
           },
           {
-            "id": "d6b1f68b32cae20e",
+            "id": "34c2400fc89dd06b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java OCA Base/Abstract Classes and Interfaces/Abstract Classes.md",
+                "file": "Java OCA Base/Exceptions/Handling Exceptions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract Classes"
+              "title": "Handling Exceptions"
             }
           },
           {
-            "id": "18e489289db7740b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java OCA Base/Abstract Classes and Interfaces/Abstract Classes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abstract Classes"
-            }
-          },
-          {
-            "id": "272e538c8528fd3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java OCA Base/Abstract Classes and Interfaces/Interface Method Types.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interface Method Types"
-            }
-          },
-          {
-            "id": "f5340b80fe2e0ece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java OCA Base/Abstract Classes and Interfaces/Interface Basics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interface Basics"
-            }
-          },
-          {
-            "id": "1810cb983a349018",
+            "id": "b5aa19e6b0a86e9d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -102,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#comparison",
+                "query": "tag:#optional-handling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,12 +152,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java OCA Base/Class Design/Initializing objects.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Initializing objects"
+              "title": "Outgoing links"
             }
           },
           {
@@ -249,8 +206,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1810cb983a349018",
+  "active": "b5aa19e6b0a86e9d",
   "lastOpenFiles": [
+    "Java OCA Base/Exceptions/Handling Exceptions.md",
+    "Java OCA Base/Exceptions/Unchecked Exceptions.md",
+    "Java OCA Base/Exceptions/Checked exceptions.md",
+    "Java OCA Base/Exceptions/Exceptions.md",
+    "Java OCA Base/Collections/List Interface.md",
+    "Java OCA Base/Collections/Common Collection Methods.md",
+    "Java OCA Base/Collections/Collections.md",
+    "README.md",
     "Java OCA Base/Abstract Classes and Interfaces/Interface Basics.md",
     "Java OCA Base/Abstract Classes and Interfaces/Abstract Classes.md",
     "Java OCA Base/Abstract Classes and Interfaces/Interface Method Types.md",
@@ -267,16 +232,8 @@
     "Java OCA Base/Class Design/Inheriting members.md",
     "Java OCA Base/Class Design/Initializing objects.md",
     "Java OCA Base/Class Design/Using this() and super().md",
-    "Java OCA Base/Collections/Common Collection Methods.md",
-    "Java OCA Base/Collections/List Interface.md",
     "Java OCA Base/Dates and Times/Create Dates and Times.md",
     "Java OCA Base/Dates and Times/Methods on Dates and Times.md",
-    "Java OCA Base/Dates and Times/Period, Duration, instant.md",
-    "Java OCA Base/Exceptions/Handling Exceptions.md",
-    "Java OCA Base/Lambdas and Functional Programming/Functional Interfaces and Lambdas.md",
-    "Java OCA Base/Lambdas and Functional Programming/Using Predicate with Lambda.md",
-    "Java OCA Base/Methods/Access Modifiers.md",
-    "Java OCA Base/Methods/Boxing and Unboxing.md",
     "Java OCA Base/Exceptions",
     "Java OCA Base/Collections",
     "Java OCA Base/Lambdas and Functional Programming",
